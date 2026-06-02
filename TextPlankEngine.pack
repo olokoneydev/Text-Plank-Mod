@@ -1,1 +1,38 @@
-.
+{
+  "n": "Text Plank Engine",
+  "p": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "o": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "t": "Motor Experimental",
+  "variables": {
+    "massa": 0.5,
+    "empuxo": 310.0,
+    "consumo": 0.10
+  },
+  "effects": {
+    "exhaust": {
+      "effect_type": "EngineExhaust",
+      "color": {
+        "r": 1.0,
+        "g": 0.7,
+        "b": 0.85,
+        "a": 1.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": -2.3
+      },
+      "size": {
+        "width": 1.2,
+        "length": 4.5
+      }
+    }
+  }
+}
+
